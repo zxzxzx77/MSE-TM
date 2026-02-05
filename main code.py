@@ -1,13 +1,5 @@
 
 
-المشكلة: الدمج يُضعف النتيجة بدل تحسينها!
-
-الحل:
-  1. Smart Fusion: نعطي وزن أكبر للـ views الأقوى (TF-IDF + mpnet)
-  2. Selective Integration: نستخدم Multi-Scale بشكل انتقائي
-  3. Quality-Aware Weighting: الأوزان تعتمد على جودة كل view
-  4. Ensemble Refinement: تحسين معايير الاختيار
-"""
 
 import subprocess
 import sys
